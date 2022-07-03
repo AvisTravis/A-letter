@@ -1,0 +1,22 @@
+body{
+	margin: 40px auto;
+	max-width: 650px;
+	color: #444;
+	line-height: 1.8
+}
+div  {
+	text-align: justify;
+	font-size: 28px;
+}
+
+span {
+    color: rgb(255, 36, 146);
+}
+
+button{
+	display: block;
+	margin: 10px auto;
+	background-color: rgb(255, 36, 146);
+	padding: 10px;
+	font-size: 1.3em
+}
